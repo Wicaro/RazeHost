@@ -1,2 +1,0 @@
-# RazeHost
- Site da RazeHost
