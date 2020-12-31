@@ -5,8 +5,8 @@
 <br>
 <p align="center">
  
-  <a href="https://discord.gg/g3PZvy6wv5">
-      <img src="https://img.shields.io/badge/OneUx%20-Discord%E2%86%92-gray.svg?colorA=EFCD3F&colorB=EFCD3F&style=for-the-badge"/>
+  <a href="https://raze.host/">
+      <img src="https://img.shields.io/badge/RazeHost%20-Discord%E2%86%92-gray.svg?colorA=EFCD3F&colorB=EFCD3F&style=for-the-badge"/>
     </a>
    
 
