@@ -1,6 +1,6 @@
 <p align="center">
  <img width="100px" src="https://github.com/Wicaro/RazeHost/blob/master/img/logo.png" align="center" alt="GitHub Readme Stats" />
- <h2 align="center">Koda - Diretor da OneUx</h2>
+ <h2 align="center">Koda - Raze Host</h2>
 </p>
 <br>
 <p align="center">
