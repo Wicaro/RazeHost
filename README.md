@@ -15,10 +15,6 @@
 <p align="center">
 
 
-<p align="center">
-    <img align="center" alt="visitors" src="https://gpvc.arturio.dev/Wicaro" />
-</p>
-
 
 
 
