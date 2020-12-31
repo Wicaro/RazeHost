@@ -22,7 +22,7 @@
 
 
 
-- 👨‍💻 Landind page  ->  **Raze Host**.
+- 👨‍💻 Landing page  ->  **Raze Host**.
 
 
 
