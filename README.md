@@ -26,7 +26,7 @@
 
 
 
-- 👨‍💻 Front-End site da **Raze Host**.
+- 👨‍💻 Landind page  ->  **Raze Host**.
 
 
 
