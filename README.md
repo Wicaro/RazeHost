@@ -6,7 +6,7 @@
 <p align="center">
  
   <a href="https://discord.gg/g3PZvy6wv5">
-      <img src="https://img.shields.io/badge/OneUx%20-Discord%E2%86%92-gray.svg?colorA=EFCD3F&colorB=4F44D6&style=for-the-badge"/>
+      <img src="https://img.shields.io/badge/OneUx%20-Discord%E2%86%92-gray.svg?colorA=EFCD3F&colorB=EFCD3F&style=for-the-badge"/>
     </a>
    
 
