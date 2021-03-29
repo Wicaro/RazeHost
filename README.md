@@ -22,7 +22,7 @@
 
 
 
-- 👨‍💻 Landing page  ->  **Raze Host**.
+- 👨‍💻 Front-End  ->  **Raze Host**.
 - 🔒 2020 © Raze Host - Todos direitos reservados.
 - Não autorizamos o uso desse site para fins comerciais.
 
