@@ -1,6 +1,6 @@
 <p align="center">
  <img width="100px" src="https://github.com/Wicaro/RazeHost/blob/master/img/logo.png" align="center" alt="Raze Host" />
-  <h2 align="center">Wicaro Mendes (Koda) - Raze Host</h2>
+  <h2 align="center">Wicaro Mendes Raze Host</h2>
 </p>
 <br>
 <p align="center">
@@ -23,15 +23,15 @@
 
 
 - 👨‍💻 Front-End  ->  **Raze Host**.
-- 🔒 2020 © Raze Host - Todos direitos reservados.
-- Não autorizamos o uso desse site para fins comerciais.
+- 🔒 2022 © Raze Host - All rights reserved.
+- We do not authorize the use of this site for commercial purposes.
+- Project developed as a freelancer, for a hosting company called Raze Host
 
 
 
 
 
-
- ### Ferramentas usadas 🛠
+ ### tools used 🛠
 
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
@@ -45,19 +45,3 @@
 
 <br/>
 
-
-<p align="center">
-“Não se trata de ter ideias, mas sim de levar essas ideias para a vida real.” — Scott Belsky
-</p>
-
-<p align="center">
- 🚀 OneUx is the future
-</p>
-
-<p align="center">
- 
-  <a href="https://discord.gg/g3PZvy6wv5">
-      <img src="https://img.shields.io/badge/OneUx%20-Discord%E2%86%92-gray.svg?colorA=655BE1&colorB=4F44D6&style=for-the-badge"/>
-    </a>
-   
-</p>
